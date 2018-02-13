@@ -1,0 +1,28 @@
+body{
+    background-image: url("../Bootstrap/images/wall4_@2x.png");
+    
+}
+
+.profileimage{
+    width: 150px;
+    display: inline;
+}
+.para{
+    float: left;
+    display: inline;
+}
+
+.nav{
+    float: right;
+    color: rgb(187, 31, 31); 
+}
+
+.icons{
+    height: 50px;
+    width: 50px;
+}
+
+#row2{
+    margin-bottom: 100px;
+    background-color: white;
+}
